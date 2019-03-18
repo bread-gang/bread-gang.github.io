@@ -1,24 +1,36 @@
 ---
-title:  "Icing Rules"
+title:  "Rules of Icing (🍞 Edition)"
 date:   2019-03-18 13:54:59 -0400
-categories: jekyll update
+categories: icing
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+# Icing
 
-Jekyll also offers powerful support for code snippets:
+## History
+In ancient Greek history, King Sisyphus was made to roll a huge boulder endlessly up a steep hill. The maddening nature of the punishment was reserved for King Sisyphus due to his hubristic belief that his cleverness surpassed that of Zeus himself. Zeus accordingly displayed his own cleverness by enchanting the boulder into rolling away from King Sisyphus before he reached the top, which ended up consigning Sisyphus to an eternity of useless efforts and unending frustration. Little is it known that after 3000 years King Sisyphus was able to reach the top of the mountain. There he found a Smirnoff Ice waiting for him placed by Zeus. Making Sisyphus the first in history to be iced and Zeus the almighty bro.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+## Rules
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+### Getting Iced
+1. The icee has to do it to themselves (i.e an action that reveals the ice. For example opening a door and see the ice).
+1. If an individual gets iced and no one is around to witness it they must live-stream it on Facebook.
+1. If you refuse to take the ice you will be shunned and booed for 2 days.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+### Ice Block
+1. An individual can “ICE BLOCK” an ice if they have and ice in arms reach.
+1. This can stack and 1L are legal.
+1. A reverse Uno card can be used but it needs to be from a real Uno pack and must be burnt after use.
+
+### Void
+1. An individual can void and ice if they claim the location of the ice before the ice is revealed.
+1. If the claim is valid the icer gets iced.
+1. If
+the claim is wrong the claimer must buy an ice or a drink of 345 ml and chug it in at least 2 seconds if it is not alcoholic.
+
+### Special Icing
+1. Smirnoff Ice 1L can be used if you ice the individual gets Iced 3 times in a row.
+1. GODS NECTAR: PABST is considered low tier but can still be used. If an individual gets Pabst they must shotgun it.
+1. Yeethanize: The use of delirium is highly respected as it is a rare boi. Limit of 5 per day.
+
+### Deferred Ices
+1. The icee and ask the icer to defer the ice for 6 hours. The icer must agree to these conditions or it must be taken on the spot
