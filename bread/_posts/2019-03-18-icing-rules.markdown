@@ -1,6 +1,5 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+title:  "Icing Rules"
 date:   2019-03-18 13:54:59 -0400
 categories: jekyll update
 ---
