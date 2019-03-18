@@ -11,12 +11,10 @@ Sam:
 Jacky:
   name   : "Jacky Chiu"
   authorid : 2
-  # avatar : "/assets/images/jacky.jpg"
+  avatar : "/assets/images/jacky.jpg"
   bio    : Always gets iced
-  email  : sam111jc@gmail.com
-  github : samjjc
-  linkedin : samjjc
-  home   : # null (default), "absolute or relative url to link to author home"
+  github : JackyChiu
+  linkedin : jackyzhanchiu
 
 Andy:
   name   : "Andy Bui"
