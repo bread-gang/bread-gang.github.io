@@ -7,7 +7,11 @@ categories: icing
 # Icing
 
 ## History
-In ancient Greek history, King Sisyphus was made to roll a huge boulder endlessly up a steep hill. The maddening nature of the punishment was reserved for King Sisyphus due to his hubristic belief that his cleverness surpassed that of Zeus himself. Zeus accordingly displayed his own cleverness by enchanting the boulder into rolling away from King Sisyphus before he reached the top, which ended up consigning Sisyphus to an eternity of useless efforts and unending frustration. Little is it known that after 3000 years King Sisyphus was able to reach the top of the mountain. There he found a Smirnoff Ice waiting for him placed by Zeus. Making Sisyphus the first in history to be iced and Zeus the almighty bro.
+In ancient Greek history, King Sisyphus was made to roll a huge boulder endlessly up a steep hill. The maddening nature of the punishment was reserved for King Sisyphus due to his hubristic belief that his cleverness surpassed that of Zeus himself.
+
+Zeus accordingly displayed his own cleverness by enchanting the boulder into rolling away from King Sisyphus before he reached the top, which ended up consigning Sisyphus to an eternity of useless efforts and unending frustration.
+
+Little is it known that after 3000 years King Sisyphus was able to reach the top of the mountain. There he found a Smirnoff Ice waiting for him placed by Zeus. Making Sisyphus the first in history to be iced and Zeus the almighty bro.
 
 ## Rules
 
@@ -27,10 +31,11 @@ In ancient Greek history, King Sisyphus was made to roll a huge boulder endlessl
 1. If
 the claim is wrong the claimer must buy an ice or a drink of 345 ml and chug it in at least 2 seconds if it is not alcoholic.
 
-### Special Icing
-1. Smirnoff Ice 1L can be used if you ice the individual gets Iced 3 times in a row.
-1. GODS NECTAR: PABST is considered low tier but can still be used. If an individual gets Pabst they must shotgun it.
-1. Yeethanize: The use of delirium is highly respected as it is a rare boi. Limit of 5 per day.
+### Special Icing Forms
+The following drinks are included in icing:
+1. **Smirnoff Ice 1L**: can be used if you ice the individual gets Iced 3 times in a row.
+1. **GODS NECTAR** (PABST): is considered low tier but can still be used. If an individual gets Pabst'd they must shotgun it.
+1. **Yeethanize**: The use of Delirium is highly respected as it is a rare boi. Limit of 5 per day.
 
 ### Deferred Ices
-1. The icee and ask the icer to defer the ice for 6 hours. The icer must agree to these conditions or it must be taken on the spot
+1. The icee and ask the icer to defer the ice for 6 hours. The icer must agree to these conditions or it must be taken on the spot.
