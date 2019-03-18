@@ -1,6 +1,10 @@
 ---
 title:  "Rules of Icing (🍞 Edition)"
 date:   2019-03-18 13:54:59 -0400
+authors:   
+- Sam
+- Andy
+- Jacky
 categories: icing
 ---
 
