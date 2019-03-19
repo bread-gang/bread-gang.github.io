@@ -38,7 +38,7 @@ the claim is wrong the claimer must buy an ice or a drink of 345 ml and chug it 
 ### Special Icing Forms
 The following drinks are included in icing:
 1. **Smirnoff Ice 1L**: can be used if you ice the individual gets Iced 3 times in a row.
-1. **GODS NECTAR** (PABST): is considered low tier but can still be used. If an individual gets Pabst'd they must shotgun it.
+1. ~~**GODS NECTAR** (PABST): is considered low tier but can still be used. If an individual gets Pabst'd they must shotgun it.~~ PBR IS ILLEGAL
 1. **Yeethanize**: The use of Delirium is highly respected as it is a rare boi. Limit of 5 per day.
 
 ### Deferred Ices
