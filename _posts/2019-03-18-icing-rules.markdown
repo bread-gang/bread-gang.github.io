@@ -29,7 +29,7 @@ The rules are simple: If a person sees a Smirnoff Ice, he or she must get down o
 In addition to the rules of getting iced, if the icee of an ice attack happens to be carrying their own Smirnoff, they reserve the right to _“ice block”_, which reverses the punishment back onto the attacker. 
 
 1. An individual can _“ice block”_ an ice if the individual has an ice in arms reach, and chooses to summon it.
-1. 1L are legal.
+1. 1L Ices are eligible to be blocked by another 1L Ice.
 1. A reverse Uno card can be used but it needs to be from a real Uno pack and must be burnt after use.
 
 ## Ice Block Re-Block
