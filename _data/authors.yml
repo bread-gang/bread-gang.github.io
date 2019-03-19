@@ -29,6 +29,6 @@ Andy:
 Ben:
   name: "Ben"
   authorid : 4
-  avatar : "/assets/images/ben.jpg"
+  avatar : "/assets/images/ben.jpeg"
   bio    : Iced in arch
   github : BenEmdon 
