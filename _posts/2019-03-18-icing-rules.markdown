@@ -18,6 +18,7 @@ Zeus accordingly displayed his own cleverness by enchanting the boulder into rol
 Little is it known that after 3000 years King Sisyphus was able to reach the top of the mountain. There he found a Smirnoff Ice waiting for him placed by Zeus. Making Sisyphus the first in history to be iced and Zeus the almighty bro.
 
 ## Rules
+The rules are simple: If a person sees a Smirnoff Ice, he or she must get down on one knee and chug it, unless they happen to be carrying their own Smirnoff, in which case they can "ice block," or refract the punishment back onto the attacker. 
 
 ### Getting Iced
 1. The icee has to do it to themselves (i.e an action that reveals the ice. For example opening a door and see the ice).
@@ -25,7 +26,7 @@ Little is it known that after 3000 years King Sisyphus was able to reach the top
 1. If you refuse to take the ice you will be shunned and booed for 2 days.
 
 ### Ice Block
-1. An individual can “ICE BLOCK” an ice if they have and ice in arms reach.
+1. An individual can _“ICE BLOCK”_ or _refract_ an ice if the individual has an ice in arms reach, and chooses summons it.
 1. This can stack and 1L are legal.
 1. A reverse Uno card can be used but it needs to be from a real Uno pack and must be burnt after use.
 
