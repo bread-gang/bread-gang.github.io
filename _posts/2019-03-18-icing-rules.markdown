@@ -26,7 +26,7 @@ The rules are simple: If a person sees a Smirnoff Ice, he or she must get down o
 1. If you refuse to take the ice you will be shunned and booed for 2 days.
 
 ### Ice Block
-In addition to the rules of getting iced, if the victim of an ice attack happens to be carrying their own Smirnoff, they reserve the right to "ice block", which reverses the punishment back onto the attacker. 
+In addition to the rules of getting iced, if the victim of an ice attack happens to be carrying their own Smirnoff, they reserve the right to _“ice block”_, which reverses the punishment back onto the attacker. 
 
 1. An individual can _“ice block”_ an ice if the individual has an ice in arms reach, and chooses to summon it.
 1. 1L are legal.
