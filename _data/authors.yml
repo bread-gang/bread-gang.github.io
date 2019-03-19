@@ -25,3 +25,10 @@ Andy:
   github : samjjc
   linkedin : samjjc
   home   : # null (default), "absolute or relative url to link to author home"
+  
+Ben:
+  name: "Ben"
+  authorid : 4
+  avatar : "/assets/images/ben.jpg"
+  bio    : Iced in arch
+  github : BenEmdon 
