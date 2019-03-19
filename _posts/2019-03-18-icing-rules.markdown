@@ -27,14 +27,13 @@ The rules are simple: If a person sees a Smirnoff Ice, he or she must get down o
 
 ### Ice Block
 1. An individual can _“ICE BLOCK”_ or _refract_ an ice if the individual has an ice in arms reach, and chooses to summon it.
-1. This can stack and 1L are legal.
+1. 1L are legal.
 1. A reverse Uno card can be used but it needs to be from a real Uno pack and must be burnt after use.
 
 ### Void
 1. An individual can void and ice if they claim the location of the ice before the ice is revealed.
 1. If the claim is valid the icer gets iced.
-1. If
-the claim is wrong the claimer must buy an ice or a drink of 345 ml and chug it in at least 2 seconds if it is not alcoholic.
+1. If the claim is wrong the claimer must buy an ice or a drink of 345 ml and chug it in at least 2 seconds if it is not alcoholic.
 
 ### Special Icing Forms
 The following drinks are included in icing:
