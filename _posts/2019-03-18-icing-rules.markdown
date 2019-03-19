@@ -26,9 +26,9 @@ The rules are simple: If a person sees a Smirnoff Ice, he or she must get down o
 1. If you refuse to take the ice you will be shunned and booed for 2 days.
 
 ### Ice Block
-In addition to the rules of getting iced, if the victim of an ice attack happens to be carrying their own Smirnoff, they reserve the right to "ice block" or refract, which reverses the punishment back onto the attacker. In this scenario, both players must get down on one knee and chug it, hereby putting an end to the game (to avoid further blocking).
+In addition to the rules of getting iced, if the victim of an ice attack happens to be carrying their own Smirnoff, they reserve the right to "ice block", which reverses the punishment back onto the attacker. 
 
-1. An individual can _“ICE BLOCK”_ or _refract_ an ice if the individual has an ice in arms reach, and chooses to summon it.
+1. An individual can _“ICE BLOCK”_ an ice if the individual has an ice in arms reach, and chooses to summon it.
 1. 1L are legal.
 1. A reverse Uno card can be used but it needs to be from a real Uno pack and must be burnt after use.
 
