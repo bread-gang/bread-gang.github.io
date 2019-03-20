@@ -1,29 +1,24 @@
 Sam:
-  name   : "Samuel Catherasoo"
+  name   : "Samuel"
   authorid : 1
   avatar : "/assets/images/sam.jpg"
   bio    : Got iced with a litre, and drank it
-  email  : sam111jc@gmail.com
   github : samjjc
-  linkedin : samjjc
   home   : # null (default), "absolute or relative url to link to author home"
 
 Jacky:
-  name   : "Jacky Chiu"
+  name   : "Jacky"
   authorid : 2
   avatar : "/assets/images/jacky.jpg"
   bio    : Always gets iced
   github : JackyChiu
-  linkedin : jackyzhanchiu
 
 Andy:
-  name   : "Andy Bui"
+  name   : "Andy"
   authorid : 3
   # avatar : "/assets/images/andy.jpg"
   bio    : Ices everyone
-  email  : sam111jc@gmail.com
   github : samjjc
-  linkedin : samjjc
   home   : # null (default), "absolute or relative url to link to author home"
   
 Ben:
