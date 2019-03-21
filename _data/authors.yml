@@ -16,9 +16,9 @@ Jacky:
 Andy:
   name   : "Andy"
   authorid : 3
-  avatar : "/assets/images/andy.jpg"
-  bio    : Ices everyone
-  github : samjjc
+  avatar : "/assets/images/andy.jpeg"
+  bio    : Founder of Bread Gang
+  github : Tricktionary
   home   : # null (default), "absolute or relative url to link to author home"
   
 Ben:
