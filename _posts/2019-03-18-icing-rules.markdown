@@ -1,7 +1,7 @@
 ---
 title:  "Rules of Icing (🍞 Edition)"
 date:   2019-03-18 13:54:59 -0400
-authors:   
+authors:
 - Sam
 - Andy
 - Jacky
@@ -27,7 +27,7 @@ The rules are simple: If a person sees a Smirnoff Ice, he or she must get down o
 1. If you refuse to take the ice you will be shunned and booed for 2 days.
 
 ### Ice Block
-In addition to the rules of getting iced, if the icee of an ice attack happens to be carrying their own Smirnoff, they reserve the right to _“ice block”_, which reverses the punishment back onto the attacker. 
+In addition to the rules of getting iced, if the icee of an ice attack happens to be carrying their own Smirnoff, they reserve the right to _“ice block”_, which reverses the punishment back onto the attacker.
 
 1. An individual can _“ice block”_ an ice if the individual has an ice in arms reach, and chooses to summon it.
 1. 1L Ices are eligible to be blocked by another 1L Ice.
@@ -44,7 +44,7 @@ The _"Ice Block Re-Block"_ is when the original attacker is in fact carrying two
 ### Special Icing Forms
 The following drinks are included in icing:
 1. **Smirnoff Ice 1L**: can be used if you ice the individual gets Iced 3 times in a row.
-1. ~~**GODS NECTAR** (PABST): is considered low tier but can still be used. If an individual gets Pabst'd they must shotgun it.~~ PBR IS ILLEGAL
+1. **GODS NECTAR** (PABST): is considered low tier but can still be used __if it is a limited edition PBR__.
 1. **Yeethanize**: The use of Delirium is highly respected as it is a rare boi. Limit of 5 per day.
 
 ### Deferred Ices
