@@ -1,6 +1,6 @@
 ---
 title: leaderboard
-permalink: /leaderboard
+permalink: /leaderboard/
 ---
 
 | Name          | Iced          | Got Iced   |
