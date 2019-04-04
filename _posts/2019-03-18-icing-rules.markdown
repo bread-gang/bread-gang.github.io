@@ -44,7 +44,7 @@ The _"Ice Block Re-Block"_ is when the original attacker is in fact carrying two
 ### Special Icing Forms
 The following drinks are included in icing:
 1. **Smirnoff Ice 1L**: can be used if you ice the individual gets Iced 3 times in a row.
-1. **GODS NECTAR** (PABST): is considered low tier but can still be used __if it is a limited edition PBR__.
+1. ~~**GODS NECTAR** (PABST): is considered low tier but can still be used. If an individual gets Pabst'd they must shotgun it.~~ PBR IS ILLEGAL
 1. **Yeethanize**: The use of Delirium is highly respected as it is a rare boi. Limit of 5 per day.
 
 ### Deferred Ices
