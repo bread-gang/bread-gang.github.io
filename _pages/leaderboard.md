@@ -5,8 +5,8 @@ permalink: /leaderboard/
 
 | Name          | Iced          | Got Iced   |
 | ------------- |:-------------:|:----------:|
-| Andy          | 14            | 4          |
-| Sam           | 4             | 5          |
+| Andy          | 13            | 4          |
+| Sam           | 4             | 4          |
 | Jacky         | 4             | 8          |
 | Ben           | 3             | 2          |
 | Bernard       | 0             | 1          |
