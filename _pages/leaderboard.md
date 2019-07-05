@@ -15,3 +15,4 @@ permalink: /leaderboard/
 | Josh          | 0             | 1          |
 | Evan          | 0             | 2          |
 | Drew          | 1             | 1          |
+| Erick         | 1             | 0          |
