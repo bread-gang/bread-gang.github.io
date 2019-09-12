@@ -1,6 +1,8 @@
 main:
   - title: "Posts"
     url: /posts/
+  - title: "Ice Leaderboard"
+    url: /leaderboard/
   - title: "SAAS"
     url: https://breadgang.xyz/SAAS/
   - title: "Leaderboard"
