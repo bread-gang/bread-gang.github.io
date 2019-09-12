@@ -5,10 +5,10 @@ permalink: /leaderboard/
 
 | Name          | Iced          | Got Iced   |
 | ------------- |:-------------:|:----------:|
-| Andy          | 15            | 5          |
+| Andy          | 17            | 5          |
 | Sam           | 4             | 5          |
-| Jacky         | 11            | 9          |
-| Ben           | 3             | 7          |
+| Jacky         | 11            | 10         |
+| Ben           | 3             | 8          |
 | Bernard       | 0             | 1          |
 | Vikram        | 1             | 4          |
 | Kirin         | 2             | 1          |
